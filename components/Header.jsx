@@ -25,6 +25,7 @@ function Header() {
       <div className="flex w-full p-6 items-center">
         <Image
           src="https://1000logos.net/wp-content/uploads/2021/05/Google-logo.png"
+          alt="Google logo"
           width={110}
           height={60}
           className="cursor-pointer"

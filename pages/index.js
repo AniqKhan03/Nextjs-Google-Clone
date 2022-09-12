@@ -47,7 +47,7 @@ export default function Home() {
 
       {/* Form */}
       <form className='flex flex-col items-center mt-33 flex-grow w-4/5 '>
-        <Image src="https://1000logos.net/wp-content/uploads/2021/05/Google-logo.png" width={500} height={270} />
+        <Image src="https://1000logos.net/wp-content/uploads/2021/05/Google-logo.png" alt='Google logo' width={500} height={270} />
 
 
       <div className='flex w-full border border-gray-200 mt-5 hover:shadow-md focus-within:shadow-md max-w-md rounded-full px-5 py-3 items-center sm:max-w-xl lg:max-w-2xl'>
