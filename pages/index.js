@@ -1,9 +1,9 @@
 import Head from 'next/head'
-import Avatar from '../components/Avatar'
+import Avatar from "../components/Avatar"
 import { SearchIcon } from '@heroicons/react/outline'
 import { MicrophoneIcon } from '@heroicons/react/solid'
 import Image from 'next/image'
-import Footer from '../components/Footer'
+import Footer from "../components/Footer"
 import { useRef } from 'react'
 import { useRouter } from 'next/router'
 

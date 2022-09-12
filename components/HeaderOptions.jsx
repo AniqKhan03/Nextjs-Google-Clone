@@ -1,5 +1,5 @@
 import React from 'react'
-import HeaderOption from './HeaderOption'
+import HeaderOption from "./HeaderOption"
 import { DotsVerticalIcon, SearchIcon, TagIcon, NewspaperIcon, PhotographIcon, LocationMarkerIcon } from "@heroicons/react/outline"
 
 function HeaderOptions() {
